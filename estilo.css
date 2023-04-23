@@ -1,0 +1,19 @@
+nav li {
+    display: inline block;
+    float: right;
+    list-style: none;
+    padding: 10px;
+}
+
+table {
+ width: 100%;
+ 
+}
+
+th, td {
+    text-align: center;
+}
+
+img {
+    width: auto;
+}
